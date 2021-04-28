@@ -1,4 +1,4 @@
-#Bus Tracker
+Bus Tracker
 
 MIT xPRO - Week 9
 
@@ -8,6 +8,13 @@ This project was part of the course work required in the MIT xPRO Full-Stack dev
 
 An exercise and basic map program that tracks the live positioning of the bus on Route 1 in Boston. The current location is shown with a marker that is created and updated every 15 seconds. 
 
+
+Versioning:
+1.1.1
+
+Coming Improvements:
+Selecting which Bust Line to Track
+Centering the Map on the location tag generated with each track
 
 
 **License**
