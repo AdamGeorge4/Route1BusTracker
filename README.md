@@ -13,7 +13,7 @@ Versioning:
 1.1.1
 
 Coming Improvements:
-Selecting which Bust Line to Track
+Selecting which Bus Line to Track
 Centering the Map on the location tag generated with each track
 
 
